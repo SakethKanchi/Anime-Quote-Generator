@@ -12,12 +12,12 @@ function App(){
 			.then(response => response.json())
 	}
 
-	const generate = async() => {
+	const generate = async () => {
 		setQuote(await fetchQuote());
 	}
 	useEffect(async () =>{
 		setQuote(await fetchQuote());
-	},[])
+	}, []);
 	return (
 		<div className="App">
 			<Header />
