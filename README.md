@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdn.icon-icons.com/icons2/1736/PNG/512/4043233-anime-away-face-no-nobody-spirited_113254.png" width="100"><br>
+  <img src="https://img.icons8.com/dusk/512/000000/son-goku.png" width="100"><br>
   Anime Quote Generator
 </h1>
 
