@@ -23,6 +23,12 @@ function App(){
 			<Header />
 			<Quotes quote={quote}/>
 			<button onClick={generate}>Generate new quote</button>
+			<footer>
+			<div class="footer-container">
+				<div>©️ Made by <a href="https://github.com/SakethKanchi"> Saketh Kanchi</a>.</div>
+				<div>©️ Credits to <a href="https://animechan.vercel.app/"> AnimeChan</a> and <a href="https://github.com/catppuccin/catppuccin">Catppuccin</a>.</div>
+			</div>
+			</footer>
 		</div>
 	);
 }
