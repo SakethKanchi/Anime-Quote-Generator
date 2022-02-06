@@ -6,7 +6,7 @@
 <p>
   🎉Made using <a href = "https://animechan.vercel.app/">AnimeChan</a> and <a href ="https://reactjs.org/">React</a>.<br>
   🎉Based on <a href = "https://github.com/catppuccin/catppuccin">Catppuccin</a> color scheme.<br>
-  🚀Deployed using Heroku <a href ="animequotesgen.netlify.app">Live Website</a>
+  🚀Deployed using Heroku <a href ="https://animequotesgen.netlify.app">Live Website</a>
 </p>
 
 <h1>Screenshot:</h1>
