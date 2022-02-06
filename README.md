@@ -9,8 +9,9 @@
   🚀Deployed using Heroku <a href ="https://anime-quote-0.herokuapp.com/">Live Website</a>
 </p>
 
-<h1>
-  Screenshot:<br>
+<h1>Screenshot:</h1>
   <img src="https://user-images.githubusercontent.com/70198692/152297509-f058947c-5364-41e6-9182-c7ac7f6aad90.png">
-</h1>
+
   
+<h1>Todo:</h1>
+<p>🔨 Scale for mobile devices </p>
