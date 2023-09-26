@@ -1,7 +1,8 @@
-<h1 align="center">
+<h1 align="center">⚠️Project shutdown because API AnimeChan has been shutdown</h1>
+<h3 align="center">
   <img src="https://img.icons8.com/dusk/512/000000/son-goku.png" width="100"><br>
   Anime Quote Generator
-</h1>
+</h3>
 
 <p>
   🎉Made using <a href = "https://animechan.vercel.app/">AnimeChan</a> and <a href ="https://reactjs.org/">React</a>.<br>
